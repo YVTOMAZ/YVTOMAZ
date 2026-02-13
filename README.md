@@ -33,10 +33,10 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Building scalable applications and exploring new technologies.
+Passionate about clean code, software architecture, and distributed systems.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** TTechnology — São Paulo, Brasil
 </details>
 
 <br/>
