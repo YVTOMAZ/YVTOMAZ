@@ -23,6 +23,12 @@ galaxy_arms:
       - "Node.js"
       - "NestJS"
       - "PostgreSQL"
+      - "MongoDB"
+      - "Redis"
+      - "RabbitMQ"
+      - "GraphQL"
+      - "REST"
+      - "gRPC"
   - name: "Architecture"
     color: "synapse_cyan"
     items:
