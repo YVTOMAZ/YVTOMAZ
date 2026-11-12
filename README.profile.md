@@ -33,10 +33,11 @@
 
 <br/>
 
-Building scalable applications and exploring new technologies.
-Passionate about clean code, software architecture, and distributed systems.
+Engenheiro de IA, Engenheiro de Software Sênior e Arquiteto de Soluções, com background full stack e foco em Inteligência Artificial aplicada, baseado em Ipatinga, Brasil.
+Uso IA para resolver problemas reais de negócio: integração de LLMs em produtos, agentes, automação de processos e pipelines de dados.
+Apaixonado por código e em constante aprendizado.
 
-**Currently at** TTechnology — São Paulo, Brasil
+**Currently at** TTechnology — Ipatinga, Brasil
 </details>
 
 <br/>

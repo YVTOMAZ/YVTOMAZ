@@ -3,12 +3,13 @@ username: YVTOMAZ
 
 profile:
   name: "Tomaz" 
-  tagline: "Software Engineer"
+  tagline: "Engenheiro de IA e Engenheiro de Software"
   company: "TTechnology"
-  location: "Brasil"
+  location: "Ipatinga, Brasil"
   bio: |
-    Building scalable applications and exploring new technologies.
-    Passionate about clean code and software architecture.
+    Engenheiro de IA, Engenheiro de Software Sênior e Arquiteto de Soluções, com background full stack e foco em Inteligência Artificial aplicada, baseado em Ipatinga, Brasil.
+    Uso IA para resolver problemas reais de negócio: integração de LLMs em produtos, agentes, automação de processos e pipelines de dados.
+    Apaixonado por código e em constante aprendizado.
   philosophy: '"Code is poetry written with logic."'
 
 social:
@@ -17,35 +18,24 @@ social:
   website: "https://github.com/YVTOMAZ"
 
 galaxy_arms:
-  - name: "Backend"
+  - name: "Inteligência Artificial"
     color: "dendrite_violet"
     items:
-      - "Node.js"
-      - "NestJS"
-      - "PostgreSQL"
-      - "MongoDB"
-      - "Redis"
-      - "RabbitMQ"
-      - "GraphQL"
-      - "REST"
-      - "gRPC"
-  - name: "Architecture"
+      - "LLMs via API"
+      - "Agentes de IA"
+      - "Engenharia de prompts"
+      - "RPA + IA"
+      - "Assistentes WhatsApp"
+      - "Web scraping"
+  - name: "Engenharia de Software"
     color: "synapse_cyan"
     items:
-      - "System Design"
-      - "Microservices"
-      - "Clean Arch"
-  - name: "DevOps"
-    color: "axon_amber"
-    items:
-      - "Docker"
-      - "Kubernetes"
-      - "AWS"
+      - "Python"
 
 projects:
-  - repo: "YVTOMAZ/YVTOMAZ"
+  - repo: "YVTOMAZ/pii-guard-br"
     arm: 0
-    description: "My personal galaxy profile."
+    description: "Contextuva: mascaramento reversível de dados pessoais brasileiros (CPF, CNPJ, e-mail, telefone). Derivado, com atribuição, de pii-tokens (MIT, Lucas Aguilar)."
   # Add more projects here as needed
 
 theme:
